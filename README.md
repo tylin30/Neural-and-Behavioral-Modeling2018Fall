@@ -1,6 +1,6 @@
 # Neural and Behavioral Modeling
 
-This my class Homework.
+This my class Homeworks.
 
 ## Getting Started
 
