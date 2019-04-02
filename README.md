@@ -1,6 +1,6 @@
-# Neural and Behavioral Modeling
+# Neural and Behavioral Modeling 2018 Fall
 
-This my class Homeworks.
+This is an NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
 
 ## Getting Started
 
