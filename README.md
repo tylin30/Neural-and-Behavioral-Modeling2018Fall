@@ -1,6 +1,10 @@
 # Neural and Behavioral Modeling 2018 Fall
 
-This is an NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
+This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
+
+## Weekly Assignments
+|#|Task|Description
+|hw0|sdfsf|sdfsd
 
 ## Getting Started
 
