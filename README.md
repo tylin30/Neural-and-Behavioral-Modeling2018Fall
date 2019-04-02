@@ -2,6 +2,28 @@
 
 This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
 
+## Syllabus
+|Week|Subject|
+|---|---|---|
+|01|National Holiday|
+|02|Course Introduction: Models & modeling|
+|03|Behavioral Modeling (1/2): System dynamics|
+|04|Behavioral Modeling (2/2): Agent-based modeling|
+|05|Computational Cognitive Science (1/2): Basics|
+|06|National Holiday|
+|07|Computational Cognitive Science (2/2): Advanced	|
+|08|Computational Cognitive Neuroscience (1/8): Modeling principles & canonical neural computation	|
+|09|Computational Cognitive Neuroscience (2/8): Overview of learning & memory|
+|10|Computational Cognitive Neuroscience (3/8): Local/shallow learning & memory|
+|11|Computational Cognitive Neuroscience (4/8): Global/deep learning & memory|
+|12|Computational Cognitive Neuroscience (5/8): Deep convolutional neural networks|
+|13|Computational Cognitive Neuroscience (6/8): Deep reinforcement learning|
+|14|Computational Cognitive Neuroscience (7/8): Deep recurrent neural networks|
+|15|Computational Cognitive Neuroscience (8/8): Advanced issues & models|
+|16|Computational Neuroscience (1/2): 1 spiking neuron|
+|17|Computational Neuroscience (2/2): N spiking neurons|
+
+
 ## Weekly Assignments
 ### Assignments are in the hw folder.
 |# | Task |Description|
