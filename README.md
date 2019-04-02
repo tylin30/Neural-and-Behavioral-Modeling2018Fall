@@ -5,7 +5,7 @@ This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Hu
 ## Weekly Assignments
 |# | Task |Description|
 |---|---|---|
-|02|1. Party Simulation 2.Shunting Equation||
+|02|1. Party Simulation <br>2.Shunting Equation||
 
 ## Getting Started
 
