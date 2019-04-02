@@ -4,7 +4,7 @@ This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Hu
 
 ## Syllabus
 |Week|Subject|
-|---|---|---|
+|---|---|
 |01|National Holiday|
 |02|Course Introduction: Models & modeling|
 |03|Behavioral Modeling (1/2): System dynamics|
