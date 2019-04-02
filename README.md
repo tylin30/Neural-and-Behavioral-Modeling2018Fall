@@ -25,20 +25,22 @@ Neural and Behavioral Modeling @ NTU, given by Prof. Tsung-Ren Huang.
 
 
 ## Weekly Assignments
-### Assignments are in the hw folder.
-|# | Task |Description|
-|---|---|---|
+### Assignments are in the hw folder. (R06227101_#.ipynb)
+|# | Description |
+|---|---|
+|01|no assignment|
 |02|1. Party Simulation <br>2. Shunting Equation|
-|03|1. Nonlinear love triangle <br>2. Tragedy of the Commons||
-|04|||
-|05|1. Drifit Diffusion Model <br>2. Port EZdata.m from Matlab to Python ||
-|08|1. Replicate Sequence Memory Model||
-|10|1. 2-layered Linear Network(numpy & pytorch version)||
-|11|||
-|12|||
-|14|||
-|15|||
-|16|||
+|03|1. Nonlinear love triangle <br>2. Tragedy of the Commons|
+|04|Replicate one Agent-Based Model (group genesis in homogeneous population)|
+|05|1. Drifit Diffusion Model <br>2. Port EZdata.m from Matlab to Python |
+|08|Replicate Sequence Memory Model|
+|09|no assignment|
+|10|2-layered Linear Network(numpy & pytorch version)|
+|11|Tuning the performance of a neural net|
+|12|1. Neural Network performance assessment <br>2. Universal Approximation Theorem|
+|14|Activation/Signal Function in RNN|
+|15|1. Visualizing the latent space of an autoencoder <br>2. Integer Factorization|
+|16|Integrate-and-Fire Neuron with a Refractory Period|
 |17|(optional)||
 
 
