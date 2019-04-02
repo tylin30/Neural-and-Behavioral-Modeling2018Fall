@@ -3,9 +3,16 @@
 This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
 
 ## Weekly Assignments
+### Assignments are in the hw folder.
 |# | Task |Description|
 |---|---|---|
-|02|1. Party Simulation <br>2.Shunting Equation||
+|02|1. Party Simulation <br>2. Shunting Equation|
+|03|1. Nonlinear love triangle <br>2. Tragedy of the Commons||
+|05|1. Drifit Diffusion Model <br>2. Port EZdata.m from Matlab to Python ||
+|08|1. Replicate Sequence Memory Model||
+|10|1. 2-layered Linear Network(numpy & pytorch version)||
+
+
 
 ## Getting Started
 
