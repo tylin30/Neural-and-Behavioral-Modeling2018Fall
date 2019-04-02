@@ -1,6 +1,6 @@
 # Neural and Behavioral Modeling 2018 Fall
 
-Neural and Behavioral Modeling, given by Prof. Tsung-Ren Huang @National Taiwan University.
+Neural and Behavioral Modeling @ NTU, given by Prof. Tsung-Ren Huang.
 
 ## Syllabus
 |Week|Subject|
