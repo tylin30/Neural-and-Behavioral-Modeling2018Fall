@@ -3,8 +3,9 @@
 This is NTU course of Neural and Behavioral Modelin, given by Prof. Tsung-Ren Huang.
 
 ## Weekly Assignments
-|#|Task|Description
-|hw0|sdfsf|sdfsd
+|# | Task |Description|
+|---|---|---|
+|hw0|sdfsf|sdfsd|
 
 ## Getting Started
 
